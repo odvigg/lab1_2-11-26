@@ -1,0 +1,23 @@
+{
+    "report_version": 1,
+    "baldaquin_version": "0.10.2",
+    "test_stand_id": 301,
+    "run_id": 10,
+    "start_timestamp": {
+        "utc_datetime": "2026-11-02T11:07:47.222183+00:00",
+        "local_datetime": "2026-11-02T12:07:47.222183+01:00",
+        "seconds": 1793617667.222183
+    },
+    "stop_timestamp": {
+        "utc_datetime": "2026-11-02T11:10:43.958516+00:00",
+        "local_datetime": "2026-11-02T12:10:43.958516+01:00",
+        "seconds": 1793617843.958516
+    },
+    "project_name": "plasduino",
+    "application_name": "TemperatureMonitor",
+    "statistics": {
+        "packets_processed": 704,
+        "packets_written": 704,
+        "bytes_written": 17866
+    }
+}
